@@ -1,0 +1,25 @@
+{
+  "name": "gunpla-api",
+  "version": "1.0.0",
+  "description": "This is a REST API containing information on HG Gunpla model kits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaoAlarcon/Gunpla-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaoAlarcon/Gunpla-API/issues"
+  },
+  "homepage": "https://github.com/ChaoAlarcon/Gunpla-API#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
